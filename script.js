@@ -52,7 +52,7 @@ class DVD {
     }
 }
 
-let dvd = new DVD(innerWidth / 2, innerHeight / 2, 6, 6, 100, 60, 10);
+let dvd = new DVD(innerWidth / 2, innerHeight / 2, 1, 1, 100, 60, 10);
 
 function color() {
     r = Math.random() * 256 | 0;
